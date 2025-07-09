@@ -1,0 +1,20 @@
+{
+  "name": "my-threejs-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ammo.js": "^0.0.10",
+    "lil-gui": "^0.20.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/three": "^0.176.0",
+    "three": "^0.176.0"
+  }
+}
